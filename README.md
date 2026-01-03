@@ -144,5 +144,3 @@ MIT — use responsibly and respect content owners' terms of service.
 Built around `spotdl` — huge thanks to its maintainers and contributors.
 
 ---
-
-### Need it prettier or want a badge-ified version for GitHub? — I can make a README with shields, a table of contents, and example images.
